@@ -1,1 +1,1 @@
-# Hub de códigos para disciplinas computacionais do ICMC
+# Hub de repositórios para códigos de disciplinas computacionais do ICMC
